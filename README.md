@@ -179,14 +179,6 @@ Through these projects, I gained experience in:
 
 ---
 
-## 🤝 Connect With Me
-
-**GitHub:** https://github.com/your-username
-
-**LinkedIn:** https://linkedin.com/in/your-linkedin
-
----
-
 ## ⭐ Support
 
 If you found this repository helpful, consider giving it a ⭐ on GitHub!
