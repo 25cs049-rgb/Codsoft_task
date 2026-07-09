@@ -1,4 +1,4 @@
-# 🐍 CodSoft Python Internship Projects
+#  CodSoft Python Internship Projects
 
 Welcome to my **CodSoft Python Internship** repository! 🚀
 
